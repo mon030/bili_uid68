@@ -231,4 +231,4 @@ https://www.bilibili.com/video/av56763929/
 
   [1]: https://i1.hdslb.com/bfs/face/6985f5959741f7fb1f96d2a4c39b6f25e8e6f3ac.jpg
   [2]: https://live.bilibili.com/862454
-  [3]: https://img.moegirl.org/common/1/15/Bili-icon-lv_6.png
+  [3]: https://img.moegirl.org.cn/common/1/15/Bili-icon-lv_6.png
